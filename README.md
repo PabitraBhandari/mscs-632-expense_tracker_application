@@ -33,4 +33,5 @@ A CLI-based expense tracker built in both Python and C++ to demonstrate language
 ## Team Roles
 - Avinna – Python functions
 - Peera - C++ functions
+- Pabitra - Help commenting and finalizing the code
 
